@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Hi , I am Justin",
   middleName: "",
   lastName: "Chen",
-  message: "Software Engineer - JavaScript | HTML5 | CSS3 | Node.js | Express.js | React.js",
+  message: "Full-stack developer - JavaScript | HTML5 | CSS3 | Node.js | Express.js | SQL | React.js",
   icons: [
     {
       image: "fa-github",
